@@ -1,6 +1,5 @@
 ### Hi there, I'am Harsimran [website] 👋
 
-<br/>
 
 ### I am a developer currently working as a freelancer!
 - 🗼 Looking for awesome projects to work on
@@ -8,7 +7,7 @@
 - 🥅 Goals: Get started with open source contribution
 - 🎧 Fun Fact: I love to create electronic sounds
 
-<br/>
+
 
 ### Connect with me:
 <img  src='www.svg' height='12px'/> [website] <span style='margin-right:5px'> </span>
@@ -16,7 +15,6 @@
 <span style='margin-right:5px'> </span>
 <img  src='linkedin.svg' height='12px'/> [linkedin]
 
-<br/>
 
 ### Language and Tools:
  <img  src='html.svg' height='12px'/> HTML
