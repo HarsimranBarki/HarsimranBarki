@@ -38,9 +38,7 @@
 <img  src='razorpay.svg' height='12px'/> Razorpay
 <span style='margin-right:10px'> </span>
 
----
-
-[![Harsimran GitHub stats](https://github-readme-stats.vercel.app/api?username=HarsimranBarki)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsimran GitHub stats](https://github-readme-stats.vercel.app/api?username=HarsimranBarki&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/harsimransinghb
 [website]: https://www.harsimran.dev
