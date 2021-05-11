@@ -3,7 +3,7 @@
 ### I am a developer currently working as a freelancer!
 
 - 🗼 Looking for awesome projects to work on
-- 🎧 Currently on job hunt
+- 💼 Currently on job hunt
 - 🥅 Goals: Get started with open source contribution
 - 🎧 Fun Fact: I love to create electronic sounds
 
